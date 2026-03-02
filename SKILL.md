@@ -18,7 +18,7 @@ metadata:
 # Kim Channel 配置助手
 
 > 📝 **文档作者**: yuanyoucai（袁有财）  
-> 📚 **完整图文版**: https://github.com/LeeGoDamn/kim-msg-account-skill
+> 📚 **完整图文版**: https://docs.corp.kuaishou.com/d/home/fcAA_W4zGstwslCQxlwehh1d2
 
 ## 概述
 
