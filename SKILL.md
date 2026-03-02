@@ -36,7 +36,7 @@ metadata:
 ### 方式 1：运行交互式脚本（推荐）
 
 ```bash
-cd ~/.openclaw/workspace/skills/kim-channel
+cd ~/.openclaw/workspace/skills/kim-msg-account
 ./scripts/interactive-setup.sh
 ```
 

@@ -25,7 +25,7 @@
 ### 使用交互式配置脚本
 
 ```bash
-cd ~/.openclaw/workspace/skills/kim-channel
+cd ~/.openclaw/workspace/skills/kim-msg-account
 ./scripts/setup.sh
 ```
 
