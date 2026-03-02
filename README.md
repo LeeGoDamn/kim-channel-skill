@@ -258,4 +258,3 @@ openclaw config get channels.kim
 
 ---
 
-> ⚠️ **快手内部文档，请勿外传**
